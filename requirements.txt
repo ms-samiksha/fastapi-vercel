@@ -1,0 +1,4 @@
+fastapi
+uvicorn
+numpy  # for latency calculations
+pandas  # optional for CSV or JSON manipulation if needed
